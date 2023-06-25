@@ -1,0 +1,37 @@
+.add_form{
+    border: 2px dashed blue;
+    width: 40%;
+    height: 450px;
+    margin-left: 35%;
+    margin-top: 100px;
+    background-color: rgba(192, 192, 192, 0.3);
+    box-shadow: 0px 0px 10px rgb(40, 94, 166);
+}
+body{
+    margin: 0;
+    font-family: 'Shadows Into Light', cursive;
+    background-image: url(gg.jpg);
+    background-size:100% 100%;
+}
+input{
+    width: 40px;
+    transition: width 0.5s linear;
+    padding: 5px;
+}
+input:focus{
+width: 200px;
+}
+form{
+    color:navy;
+    font-size: 19px;
+    padding: 40px;
+    font-family: 'Shadows Into Light', cursive;
+}
+button{
+    padding: 7px;
+    background-color:rgb(40, 94, 166);
+    font-family: 'sigmar one',cursive;
+    font-size: 20px;
+    border: 0px;
+    border-radius: 15px;
+}

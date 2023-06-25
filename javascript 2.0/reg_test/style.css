@@ -1,0 +1,10 @@
+.google,.logAuth{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+    border-radius: 20px;
+    border: 0;
+    margin: 20px;
+    background: linear-gradient( green, yellow);
+    
+}
